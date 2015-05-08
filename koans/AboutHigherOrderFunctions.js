@@ -1,4 +1,4 @@
-ar _; //globals
+var _; //globals
 
 /* This section uses a functional extension known as Underscore.js - http://documentcloud.github.com/underscore/
      "Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support
